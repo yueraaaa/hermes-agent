@@ -58,3 +58,7 @@ mini-swe-agent/
 # Nix
 .direnv/
 result
+
+# OMC state
+.omc/
+.plans/
